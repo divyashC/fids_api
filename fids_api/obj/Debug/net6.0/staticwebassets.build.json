@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "I0ZBNfNB4nAILkpFWd74C1SKlcM19ebFOt/VDddXFE0=",
+  "Source": "fids_api",
+  "BasePath": "_content/fids_api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
